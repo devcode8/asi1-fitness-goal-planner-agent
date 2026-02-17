@@ -1,6 +1,6 @@
 ## Fitness Goal Planner Agent
 
-![tag:innovationlab](https://img.shields.io/badge/innovationlab-tag-2E7DB5) ![tag:uagents](https://img.shields.io/badge/uagents-tag-3776AB) ![tag:asi1](https://img.shields.io/badge/asi1-tag-6366F1) ![tag:fetch--ai](https://img.shields.io/badge/fetch--ai-tag-0EA5E9) ![tag:agentverse](https://img.shields.io/badge/agentverse-tag-8B5CF6) ![tag:python](https://img.shields.io/badge/python-tag-FFD43B) ![tag:fitness--goal--planner](https://img.shields.io/badge/fitness--goal--planner-tag-22C55E) ![tag:llm](https://img.shields.io/badge/llm-tag-F97316)
+![tag:innovationlab](https://img.shields.io/badge/innovationlab-2E7DB5) ![tag:uagents](https://img.shields.io/badge/uagents-3776AB) ![tag:asi1](https://img.shields.io/badge/asi1-6366F1) ![tag:fetch--ai](https://img.shields.io/badge/fetch--ai-0EA5E9) ![tag:agentverse](https://img.shields.io/badge/agentverse-8B5CF6) ![tag:python](https://img.shields.io/badge/python-FFD43B) ![tag:fitness--goal--planner](https://img.shields.io/badge/fitness--goal--planner-22C55E) ![tag:llm](https://img.shields.io/badge/llm-F97316)
 
 An AI-powered fitness planning agent built using the **uAgents** framework and **[ASI1 LLM](https://asi1.ai/)** in **planner mode** (no web search). This agent helps users build a realistic, personalized fitness plan through a structured 5-phase process: assessment → SMART goals → weekly workouts → meal planning → progress tracking.
 
